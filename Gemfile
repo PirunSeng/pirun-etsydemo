@@ -15,6 +15,7 @@ gem 'paperclip', '~> 4.3.0'
 gem 'paperclip-dropbox', '~> 1.3.2'
 gem 'figaro', '~> 1.1.1'
 gem 'devise', '~> 3.5.2'
+gem 'stripe', '~> 1.24.0'
 
 group :production do
   gem 'pg', '~> 0.18.2'
